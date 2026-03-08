@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "119333691668",
+    "project_id": "skillmorph-ea7b0",
+    "storage_bucket": "skillmorph-ea7b0.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:119333691668:android:f7fd4eab4d28f412256201",
+        "android_client_info": {
+          "package_name": "com.example.skillmorph"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "119333691668-tkcfm5ea64t3aan7car382b2fstojq1s.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.skillmorph",
+            "certificate_hash": "feeaf369cc2161b0985fdbac7fc8e39f18e743e5"
+          }
+        },
+        {
+          "client_id": "119333691668-1hug4q4e6231mond38sgl5jhgvjv1239.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBEXMEdT_hLAB9cZG9Txs4nGCPaRLsYETc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "119333691668-1hug4q4e6231mond38sgl5jhgvjv1239.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
